@@ -1,0 +1,88 @@
+Day 1: Overview of Hardware Components
+
+
+Task 1: Labeled PC Hardware Diagram
+
++-------------------------+
+|       MOTHERBOARD       |
+|                         |
+|   [CPU]                 |
+|                         |
+| [RAM] [RAM]             |
+|                         |
++-------------------------+
+
+[GPU]
+
+[SSD]    [HDD]
+
+
+
+________________________________________
+Feature	HDD	SSD
+Speed	Slower	Faster
+Durability	Less Durable	More Durable
+Moving Parts	Yes	No
+Noise	Produces Noise	Silent
+Cost	Cheaper	More Expensive
+Best Use	Large Storage	Fast Performance
+Task 2: HDD vs SSD Comparison
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+•	SSD is much faster than HDD and provides better overall performance. HDD is still useful when large storage capacity is needed at a lower cost.
+
+
+
+
+
+________________________________________
+Task 3: Role of CPU, RAM, and GPU in Gaming
+
+•	CPU
+The CPU is known as the brain of the computer. When playing games like PUBG or Free Fire, it processes player actions, game logic, and other background tasks. A faster CPU helps the game run smoothly.
+
+•	RAM
+RAM stores the temporary data required by the game while it is running. Having enough RAM helps reduce lag and allows the game to load resources quickly. Most modern games perform well with at least 16GB of RAM.
+
+•	GPU
+The GPU is responsible for displaying graphics, textures, and visual effects. In games such as PUBG, a powerful GPU provides higher FPS and better graphics quality, making the gaming experience smoother.
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________________
+Task 4: Hardware Upgrades for Playing FIFA Smoothly
+1. Processor (CPU)
+I would upgrade to an Intel Core i5-12400F because it offers excellent gaming performance and can handle modern games efficiently.
+2. Memory (RAM)
+I would upgrade to 16GB DDR4 RAM. This amount of memory is sufficient for gaming and multitasking without performance issues.
+3. Graphics Card (GPU)
+I would choose an NVIDIA RTX 3060 graphics card. It can run FIFA and many other modern games at high settings with smooth frame rates.
+4. Storage (SSD)
+I would install a 500GB NVMe SSD. This would improve game loading times, Windows startup speed, and overall system responsiveness.
+Conclusion
+Upgrading the CPU, RAM, GPU, and SSD would significantly improve gaming performance. These upgrades would allow FIFA to run smoothly with better graphics quality, faster loading times, and a more enjoyable gaming experience.
+
